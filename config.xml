@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.app.angularnote" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Angular-Note</name>
+    <description>
+        A simple note application written using AngularJS.
+    </description>
+    <author email="dani_khosravi@yahoo.com" href="http://danialk.github.io">
+        Danial Khosravi
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

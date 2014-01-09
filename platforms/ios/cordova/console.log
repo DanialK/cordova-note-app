@@ -1,0 +1,44 @@
+2013-12-19 11:05:19.847 Angular-Note[80373:80b] Multi-tasking -> Device: YES, App: YES
+2013-12-19 11:05:20.135 Angular-Note[80373:80b] Unlimited access to network resources
+2013-12-19 11:05:25.135 Angular-Note[80373:80b] [CDVTimer][statusbar] 299.552977ms
+2013-12-19 11:05:25.136 Angular-Note[80373:80b] [CDVTimer][TotalPluginStartup] 300.076008ms
+2013-12-19 11:05:25.925 Angular-Note[80373:80b] Resetting plugins due to page load.
+2013-12-19 11:05:27.066 Angular-Note[80373:80b] Finished load of: file:///Users/Danial/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6F0DBEFF-A426-47BB-9EE0-CBA41463AE77/Angular-Note.app/www/index.html#/
+2013-12-19 11:08:54.830 Angular-Note[80859:80b] Multi-tasking -> Device: YES, App: YES
+2013-12-19 11:08:54.885 Angular-Note[80859:80b] Unlimited access to network resources
+2013-12-19 11:08:54.914 Angular-Note[80859:80b] [CDVTimer][statusbar] 7.692039ms
+2013-12-19 11:08:54.914 Angular-Note[80859:80b] [CDVTimer][TotalPluginStartup] 8.176029ms
+2013-12-19 11:08:55.034 Angular-Note[80859:80b] Resetting plugins due to page load.
+2013-12-19 11:08:55.659 Angular-Note[80859:80b] Finished load of: file:///Users/Danial/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6F0DBEFF-A426-47BB-9EE0-CBA41463AE77/Angular-Note.app/www/index.html#/
+2013-12-21 13:26:11.680 Angular-Note[85125:80b] Multi-tasking -> Device: YES, App: YES
+2013-12-21 13:26:11.955 Angular-Note[85125:80b] Unlimited access to network resources
+2013-12-21 13:26:21.763 Angular-Note[85125:80b] [CDVTimer][statusbar] 1637.539983ms
+2013-12-21 13:26:21.763 Angular-Note[85125:80b] [CDVTimer][TotalPluginStartup] 1638.033032ms
+2013-12-21 13:26:24.264 Angular-Note[85125:80b] Resetting plugins due to page load.
+2013-12-21 13:26:37.413 Angular-Note[85125:80b] Finished load of: file:///Users/Danial/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6F0DBEFF-A426-47BB-9EE0-CBA41463AE77/Angular-Note.app/www/index.html#/
+2013-12-21 13:26:37.501 Angular-Note[85125:80b] THREAD WARNING: ['StatusBar'] took '33.280029' ms. Plugin should use a background thread.
+2014-01-09 10:49:46.480 Angular-Note[2346:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-09 10:49:46.873 Angular-Note[2346:80b] Unlimited access to network resources
+2014-01-09 10:49:51.467 Angular-Note[2346:80b] [CDVTimer][statusbar] 240.673006ms
+2014-01-09 10:49:51.468 Angular-Note[2346:80b] [CDVTimer][TotalPluginStartup] 241.223991ms
+2014-01-09 10:49:51.919 Angular-Note[2346:80b] Resetting plugins due to page load.
+2014-01-09 10:49:52.980 Angular-Note[2346:80b] Finished load of: file:///Users/Danial/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6F0DBEFF-A426-47BB-9EE0-CBA41463AE77/Angular-Note.app/www/index.html#/
+2014-01-09 11:49:15.213 Angular-Note[3206:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-09 11:49:15.401 Angular-Note[3206:80b] Unlimited access to network resources
+2014-01-09 11:49:23.420 Angular-Note[3206:80b] [CDVTimer][statusbar] 2254.483998ms
+2014-01-09 11:49:23.439 Angular-Note[3206:80b] [CDVTimer][TotalPluginStartup] 2273.597956ms
+2014-01-09 11:49:25.420 Angular-Note[3206:80b] Resetting plugins due to page load.
+2014-01-09 11:49:34.044 Angular-Note[3206:80b] Finished load of: file:///Users/Danial/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6F0DBEFF-A426-47BB-9EE0-CBA41463AE77/Angular-Note.app/www/index.html#/
+2014-01-09 11:49:34.240 Angular-Note[3206:80b] THREAD WARNING: ['StatusBar'] took '49.164062' ms. Plugin should use a background thread.
+2014-01-09 12:15:59.744 Angular-Note[4467:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-09 12:15:59.939 Angular-Note[4467:80b] Unlimited access to network resources
+2014-01-09 12:16:03.108 Angular-Note[4467:80b] [CDVTimer][statusbar] 358.847022ms
+2014-01-09 12:16:03.108 Angular-Note[4467:80b] [CDVTimer][TotalPluginStartup] 359.302998ms
+2014-01-09 12:16:03.336 Angular-Note[4467:80b] Resetting plugins due to page load.
+2014-01-09 12:16:04.390 Angular-Note[4467:80b] Finished load of: file:///Users/Danial/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6F0DBEFF-A426-47BB-9EE0-CBA41463AE77/Angular-Note.app/www/index.html#/
+2014-01-09 12:17:30.804 Angular-Note[5545:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-09 12:17:30.814 Angular-Note[5545:80b] Unlimited access to network resources
+2014-01-09 12:17:30.846 Angular-Note[5545:80b] [CDVTimer][statusbar] 10.152042ms
+2014-01-09 12:17:30.846 Angular-Note[5545:80b] [CDVTimer][TotalPluginStartup] 10.739982ms
+2014-01-09 12:17:30.981 Angular-Note[5545:80b] Resetting plugins due to page load.
+2014-01-09 12:17:31.239 Angular-Note[5545:80b] Finished load of: file:///Users/Danial/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6F0DBEFF-A426-47BB-9EE0-CBA41463AE77/Angular-Note.app/www/index.html#/
